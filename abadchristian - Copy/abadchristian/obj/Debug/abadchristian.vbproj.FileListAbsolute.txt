@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Debug\abadchristian.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Debug\abadchristian.exe
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Debug\abadchristian.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Debug\abadchristian.xml
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.Form2.resources
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.exe
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.xml
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Debug\abadchristian.pdb

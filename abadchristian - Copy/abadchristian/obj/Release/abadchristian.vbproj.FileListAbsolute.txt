@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Release\abadchristian.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Release\abadchristian.exe
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Release\abadchristian.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\bin\Release\abadchristian.xml
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Release\abadchristian.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Release\abadchristian.Form2.resources
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Release\abadchristian.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Release\abadchristian.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Release\abadchristian.exe
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Release\abadchristian.xml
+c:\users\administrator\documents\visual studio 2015\Projects\abadchristian\abadchristian\obj\Release\abadchristian.pdb
